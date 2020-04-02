@@ -2,7 +2,7 @@
 name = "netbox-animal-sounds"
 version = "0.1.0"
 description = ""
-authors = [""]
+authors = ["Damien Garros <dgarros@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
