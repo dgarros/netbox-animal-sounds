@@ -12,8 +12,8 @@ setup(
     install_requires=[],
     packages=find_packages(),
     include_package_data=True,
-    entry_points={
-        'netbox_plugins': 'netbox_animal_sounds=netbox_animal_sounds:AnimalSoundsConfig'
-    }
+    # entry_points={
+    #     'netbox_plugins': 'netbox_animal_sounds=netbox_animal_sounds:AnimalSoundsConfig'
+    # }
 )
 

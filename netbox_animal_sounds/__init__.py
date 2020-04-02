@@ -29,3 +29,4 @@ class AnimalSoundsConfig(PluginConfig):
     # Base URL path. If not set, the plugin name will be used.
     base_url = 'animal-sounds'
 
+config = AnimalSoundsConfig
